@@ -1,0 +1,7 @@
+npm create vite@latest clima-vue -- --template vue
+npm install
+npm run dev
+  
+  
+axios
+    npm install axios --save
