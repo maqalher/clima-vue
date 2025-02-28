@@ -10,7 +10,7 @@
 </script>
 
 <template>
-  <h1 class="tuitulo">Buscador de Clima</h1>
+  <h1 class="titulo">Buscador de Clima</h1>
   <div class="contenedor buscador-clima">
     <Formulario 
       @obtener-clima="obtenerClima"
